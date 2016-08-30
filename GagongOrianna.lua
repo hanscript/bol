@@ -1,0 +1,1 @@
+print("<font color=\"#33FFAA\"><b>Gagong Orianna: </b></font><font color=\"#FFDFBF\">This script version has been discontinued, please download the new script loader from https://raw.githubusercontent.com/hanscript/bol/master/GagongOrianna%20Loader.lua.</font>")
